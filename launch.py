@@ -41,7 +41,7 @@ def main():
     if args.test_server:
         configure_for_tests()
 
-    start()
+    # start()
 
 
 if __name__ == "__main__":
