@@ -1,0 +1,3 @@
+[submodule "extensions/sd-wav2lip-uhq"]
+	path = extensions/sd-wav2lip-uhq
+	url = https://github.com/Qjizhi/sd-wav2lip-uhq.git
